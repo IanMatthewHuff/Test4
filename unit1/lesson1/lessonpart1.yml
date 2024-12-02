@@ -1,5 +1,5 @@
 id: lessonpart1
-title: Lesson Part One
+title: Lesson Part 1
 showContent: true
 showEditor: false
 showTerminal: false
@@ -7,3 +7,5 @@ showExplorer: false
 editor:
   - codeType: py
     path: f77eb4be-e1a3-43e8-b816-29df2f13454d:unit1:lesson1:lessonpart1/test1.py
+  - codeType: py
+    path: f77eb4be-e1a3-43e8-b816-29df2f13454d:unit1:lesson1:lessonpart1/newfile.py
