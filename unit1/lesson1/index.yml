@@ -1,0 +1,5 @@
+id: lesson1
+title: Lesson Title
+lessonParts:
+  - lessonpart1.yml
+  - lessonpart2.yml

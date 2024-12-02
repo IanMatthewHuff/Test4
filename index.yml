@@ -1,11 +1,11 @@
 id: f77eb4be-e1a3-43e8-b816-29df2f13454d
 title: Course Title
 level: beginner
-description: Course Description 
+description: Course Description
 objectives: Course Objectives
 prerequisites: Course Prerequisites
 contacts:
-  - displayName: IanMatthewHuff    
-    affiliation:
-    pictureUrl:
+  - displayName: IanMatthewHuff
     homePageUrl: github.com/IanMatthewHuff/Test4
+units:
+  - unit1/index.yml
