@@ -15,5 +15,5 @@ drive:
       content: print('hello2')
     - path: f77eb4be-e1a3-43e8-b816-29df2f13454d:unit1:lesson1:lessonpart1/test1.py
       content: print('hello')
-    - path: f77eb4be-e1a3-43e8-b816-29df2f13454d:unit1:lesson1:lessonpart1/newfile.py
-      content: "# file"
+    - path: f77eb4be-e1a3-43e8-b816-29df2f13454d:unit1:lesson1:lessonpart1/another.py
+      content: "# hi"
